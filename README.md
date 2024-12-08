@@ -3,17 +3,23 @@ This repository contains all the games I developed during my personal challenge 
 Each game has:
 
 Screenshots: Showcasing gameplay and visuals.
+
 Scripts: The C# scripts that bring the game to life
 
 The main objectives of this challenge were:
 
 To experiment with different gameplay mechanics and genres.
+
 To practice rapid prototyping and iteration.
+
 To share my progress and connect with fellow game developers.
 
 Technologies Used
+  
   Unity: The primary engine for developing all games.
+  
   C#: For scripting game logic.
+  
   Canva : For creating Canvas In Unity 
   
 💡 Inspiration
