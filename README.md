@@ -12,7 +12,6 @@ To experiment with different gameplay mechanics and genres.
 
 To practice rapid prototyping and iteration.
 
-To share my progress and connect with fellow game developers.
 
 Technologies Used
   
@@ -23,7 +22,7 @@ Technologies Used
   Canva : For creating Canvas In Unity 
   
 💡 Inspiration
-This projecta was inspired by the desire to strengthen my portfolio, learn more about Unity, and have fun exploring creative game ideas.
+This project was inspired by the desire to strengthen my portfolio, learn more about Unity, and have fun exploring creative game ideas.
 
 And Iam Working On More Porjects I Will Share It Soon....
 
